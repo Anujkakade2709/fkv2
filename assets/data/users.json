@@ -1,0 +1,30 @@
+[
+  {
+    "userid": "manjunath_biji",
+    "username": "Manjunath Bijinepalli",
+    "password": "ÄBC1234",
+    "usertype": "SuperAdmin",
+    "id": 1
+  },
+  {
+    "userid": "Bhargavi.biji",
+    "username": "Bhargavi Bijinepalli",
+    "password": "ÄBC1234",
+    "usertype": "SuperAdmin",
+    "id": 2
+  },
+  {
+    "userid": "Vardhan.biji",
+    "username": "Vardhan Bijinepalli",
+    "password": "ÄBC1234",
+    "usertype": "SuperAdmin",
+    "id": 3
+  },
+  {
+    "userid": "Geetha.biji",
+    "username": "Geethakshaya Bijinepalli",
+    "password": "ÄBC1234",
+    "usertype": "SuperAdmin",
+    "id": 4
+  }
+]
